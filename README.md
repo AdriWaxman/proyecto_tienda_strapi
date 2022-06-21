@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi + Nextjs
 
-A quick description of your strapi application
+Proyecto de tienda virtual creado con Strapi + Nextjs
